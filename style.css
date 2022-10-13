@@ -845,6 +845,9 @@ footer a{
 }
 
 @media (max-width: 931px){
+	.section__five-title{
+		margin-right: 0px;
+	}
 	.section__five-content{
 		margin: 0 auto;
 		max-width: 500px;
@@ -866,7 +869,7 @@ footer a{
 		color: #E9F1FF;
 	} 
 	.section__five-content form{
-		width: 80%;
+		width: 100%;
 	}
 	.section__five-content input{
 		max-width: 100%;
@@ -985,7 +988,6 @@ footer a{
 		height: auto;
 	}
 	.section__five-content{
-		margin: 0 5%;
 		max-width: 500px;
 	}
 }
@@ -1067,16 +1069,20 @@ footer a{
 
 	}
 	.progress__bar h2{
-		margin-bottom: 50px;
+	
+		margin-bottom: 40px;
 		width: 100%;
 		font-weight: 700;
-		font-size: 54px;
+		font-size: 46px;
 		line-height: 50px;
 		text-transform: uppercase;
 		color: #FFF;
 	}
 }
 @media (max-width: 421px){
+	.progress__bar h2{
+		max-width: 100%;
+	}
 	.description__text a{
 		margin-bottom: 57px;
 	}
