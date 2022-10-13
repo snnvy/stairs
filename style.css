@@ -323,35 +323,35 @@ h1 span{
 	color: #E9F1FF;
 }
 .bar-items:nth-of-type(1) p{	
-	background: url("../img/Frame 9.png") center/ 300px 190px no-repeat;
+	background: url("/img/Frame 9.png") center/ 300px 190px no-repeat;
 }
 .bar-items:nth-of-type(2){
-	background: url("../img/Group2.png") center/ 300px 190px no-repeat;
+	background: url("/img/Group2.png") center/ 300px 190px no-repeat;
 }
 .bar-items:nth-of-type(3) p{	
-	background: url("../img/Group3.png") center/ 300px 190px no-repeat;
+	background: url("/img/Group3.png") center/ 300px 190px no-repeat;
 }
 .bar-items:nth-of-type(4) p{	
-	background: url("../img/Group4.png") center/ 300px 190px no-repeat;
+	background: url("/img/Group4.png") center/ 300px 190px no-repeat;
 }
 .bar-items:nth-of-type(5) p{	
-	background: url("../img/Group5.png") center/ 300px 190px no-repeat;
+	background: url("/img/Group5.png") center/ 300px 190px no-repeat;
 }
 .bar-items:nth-of-type(6) p{	
 	background: url("../img/Group6.png") center/ 300px 190px no-repeat;
 }
 .bar-items:nth-of-type(7) p{
 	font-weight: 700;
-	background: url("../img/Group7.png") center/ 300px 190px no-repeat;
+	background: url("/img/Group7.png") center/ 300px 190px no-repeat;
 }
 .bar-items:nth-of-type(8) {
 	height: 190px;
 	width: 300px;	
-	background: url("../img/groupbtn.png") center/ 300px 190px no-repeat;
+	background: url("/img/groupbtn.png") center/ 300px 190px no-repeat;
 }
 .bar-items__button{
 	margin: 49px 0px;
-	padding: 15px 51px;
+	padding: 15px 49px;
 }
 .bar-items a{
 	display: block;
