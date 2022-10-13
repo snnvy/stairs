@@ -871,6 +871,7 @@ footer a{
 		width: 80%;
 	}
 	.section__five-content input{
+		max-width: 100%;
 		margin-bottom: 30px;
 		background: #FFFFFF;
 		background: rgba(255, 255, 255, 0.09);
