@@ -349,7 +349,7 @@ h1 span{
 }
 .bar-items__button{
 	margin: 49px 0px;
-	padding: 15px 41px;
+	padding: 15px 32px;
 }
 .bar-items a{
 	display: block;
@@ -652,7 +652,7 @@ footer a{
 		justify-content: center;
 		padding: 0px;
 		position: absolute;
-		top: 460px;
+		top: 480px;
 		right: 3.5%;
 		left: 3.5%;
 		background: none;
