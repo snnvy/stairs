@@ -28,14 +28,14 @@ p{
 }
 
 .section__three{
-	background: url('/img/grad.png') center/100% 100% no-repeat;
+	background: url('img/grad.png') center/100% 100% no-repeat;
 }
 .start-bg{
-	background: url('/img/gradient_header.png') center/100% 100% no-repeat;
+	background: url('img/gradient_header.png') center/100% 100% no-repeat;
 	
 }
 .end-bg{
-	background: url('/img/gradienta-7E5kq_sW0Ew-unsplash.png') center/ 100% 100% no-repeat ;
+	background: url('img/gradienta-7E5kq_sW0Ew-unsplash.png') center/ 100% 100% no-repeat ;
 	
 }
 .section__five{
@@ -174,7 +174,7 @@ h1 span{
 }
 .about-us__title {
 	padding: 216px 50px 53px 50px ;
-	background: url('/img/Group 5.png') center/100% 100% no-repeat;
+	background: url('img/Group 5.png') center/100% 100% no-repeat;
 	display: flex;
 	justify-content: space-between;
 	margin-bottom: 61px;
@@ -323,31 +323,31 @@ h1 span{
 	color: #E9F1FF;
 }
 .bar-items:nth-of-type(1) p{	
-	background: url("/img/Frame 9.png") center/ 300px 190px no-repeat;
+	background: url("img/Frame 9.png") center/ 300px 190px no-repeat;
 }
 .bar-items:nth-of-type(2){
-	background: url("/img/Group2.png") center/ 300px 190px no-repeat;
+	background: url("img/Group2.png") center/ 300px 190px no-repeat;
 }
 .bar-items:nth-of-type(3) p{	
-	background: url("/img/Group3.png") center/ 300px 190px no-repeat;
+	background: url("img/Group3.png") center/ 300px 190px no-repeat;
 }
 .bar-items:nth-of-type(4) p{	
-	background: url("/img/Group4.png") center/ 300px 190px no-repeat;
+	background: url("img/Group4.png") center/ 300px 190px no-repeat;
 }
 .bar-items:nth-of-type(5) p{	
-	background: url("/img/Group5.png") center/ 300px 190px no-repeat;
+	background: url("img/Group5.png") center/ 300px 190px no-repeat;
 }
 .bar-items:nth-of-type(6) p{	
-	background: url("/img/Group6.png") center/ 300px 190px no-repeat;
+	background: url("img/Group6.png") center/ 300px 190px no-repeat;
 }
 .bar-items:nth-of-type(7) p{
 	font-weight: 700;
-	background: url("/img/Group7.png") center/ 300px 190px no-repeat;
+	background: url("img/Group7.png") center/ 300px 190px no-repeat;
 }
 .bar-items:nth-of-type(8) {
 	height: 190px;
 	width: 300px;	
-	background: url("/img/groupbtn.png") center/ 300px 190px no-repeat;
+	background: url("img/groupbtn.png") center/ 300px 190px no-repeat;
 }
 .bar-items__button{
 	margin: 49px 0px;
@@ -721,7 +721,7 @@ footer a{
 	}
 	.about-us__title {
 		padding: 216px 50px 53px 50px ;
-		background: url('/img/Group 5.png') center/100% 100% no-repeat;
+		background: url('img/Group 5.png') center/100% 100% no-repeat;
 		background-size: cover;
 		display: flex;
 		justify-content: space-between;
@@ -1029,28 +1029,28 @@ footer a{
 		background: none;
 	}
 	.bar-items:nth-of-type(1) p{
-		background: url("/img/Frame 9.png") center/ 194px 190px no-repeat;
+		background: url("img/Frame 9.png") center/ 194px 190px no-repeat;
 	}
 	.bar-items:nth-of-type(2){
-		background: url("/img/Group2.png") center/ 194px 190px no-repeat;
+		background: url("img/Group2.png") center/ 194px 190px no-repeat;
 	}
 	.bar-items:nth-of-type(3) p{	
-		background: url("/img/Group3.png") center/ 194px 190px no-repeat;
+		background: url("img/Group3.png") center/ 194px 190px no-repeat;
 	}
 	.bar-items:nth-of-type(4) p{	
-		background: url("/img/Group4.png") center/ 194px 190px no-repeat;
+		background: url("img/Group4.png") center/ 194px 190px no-repeat;
 	}
 	.bar-items:nth-of-type(5) p{			
-		background: url("/img/Group5.png") center/ 194px 190px no-repeat;
+		background: url("img/Group5.png") center/ 194px 190px no-repeat;
 	}
 	.bar-items:nth-of-type(6) p{
-		background: url("/img/Group6.png") center/ 194px 190px no-repeat;
+		background: url("img/Group6.png") center/ 194px 190px no-repeat;
 	}
 	.bar-items:nth-of-type(7) p{		
 		width: 380px;
 		height: 140px;
 		font-weight: 700;
-		background: url("/img/Group7.png") center/ 398px 171px no-repeat;
+		background: url("img/Group7.png") center/ 398px 171px no-repeat;
 	}
 	.bar-items{	
 		margin-right: 7px;
