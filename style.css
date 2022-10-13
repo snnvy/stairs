@@ -1061,7 +1061,7 @@ footer a{
 		padding: 30px 17px 20px 25px;
 		height: 190px;
 		width: 185px;
-		font-size: 16px;
+		font-size: 14px;
 		line-height: 22px;
 	}
 	.progress {
@@ -1077,6 +1077,7 @@ footer a{
 		line-height: 50px;
 		text-transform: uppercase;
 		color: #FFF;
+		text-align: center;
 	}
 }
 @media (max-width: 421px){
