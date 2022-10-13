@@ -1069,7 +1069,7 @@ footer a{
 
 	}
 	.progress__bar h2{
-	
+		max-width: 100%;
 		margin-bottom: 40px;
 		width: 100%;
 		font-weight: 700;
@@ -1080,9 +1080,7 @@ footer a{
 	}
 }
 @media (max-width: 421px){
-	.progress__bar h2{
-		max-width: 100%;
-	}
+
 	.description__text a{
 		margin-bottom: 57px;
 	}
